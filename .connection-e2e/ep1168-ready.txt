@@ -1,0 +1,2 @@
+Connection EP-1168 live readiness acceptance fixture.
+Temporary test branch. Do not merge.
